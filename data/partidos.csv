@@ -1,0 +1,73 @@
+partido_id,fase,grupo,fecha,hora,equipo_local,equipo_visitante,estadio,ciudad
+1,Grupos,A,2026-06-11,16:00,México,South Africa,Estadio Azteca,CDMX
+2,Grupos,A,2026-06-11,23:00,South Korea,Czechia,Estadio Akron,Guadalajara
+3,Grupos,B,2026-06-12,16:00,Canada,Bosnia and Herzegovina,BMO Field,Toronto
+4,Grupos,D,2026-06-12,22:00,United States,Paraguay,SoFi Stadium,Los Angeles
+5,Grupos,B,2026-06-13,16:00,Qatar,Switzerland,Levi's Stadium,Santa Clara
+6,Grupos,C,2026-06-13,19:00,Brazil,Morocco,Mercedes-Benz Stadium,Atlanta
+7,Grupos,C,2026-06-13,22:00,Haiti,Scotland,MetLife Stadium,New Jersey
+8,Grupos,D,2026-06-14,01:00,Australia,Turkey,BC Place,Vancouver
+9,Grupos,E,2026-06-14,14:00,Germany,Curacao,Lincoln Financial Field,Philadelphia
+10,Grupos,E,2026-06-14,20:00,Ivory Coast,Ecuador,NRG Stadium,Houston
+11,Grupos,F,2026-06-14,17:00,Netherlands,Japan,AT&T Stadium,Dallas
+12,Grupos,F,2026-06-14,23:00,Sweden,Tunisia,—,—
+13,Grupos,G,2026-06-15,16:00,Belgium,Egypt,—,—
+14,Grupos,H,2026-06-15,13:00,Spain,Cape Verde,Hard Rock Stadium,Miami
+15,Grupos,H,2026-06-15,19:00,Saudi Arabia,Uruguay,Mercedes-Benz Stadium,Atlanta
+16,Grupos,G,2026-06-15,22:00,Iran,New Zealand,—,—
+17,Grupos,I,2026-06-16,16:00,France,Senegal,—,—
+18,Grupos,I,2026-06-16,19:00,Iraq,Norway,—,—
+19,Grupos,J,2026-06-16,22:00,Argentina,Algeria,—,—
+20,Grupos,J,2026-06-17,01:00,Austria,Jordan,—,—
+21,Grupos,K,2026-06-17,16:00,Portugal,DR Congo,—,—
+22,Grupos,L,2026-06-17,19:00,England,Croatia,—,—
+23,Grupos,L,2026-06-17,22:00,Ghana,Panama,—,—
+24,Grupos,K,2026-06-17,01:00,Uzbekistan,Colombia,—,—
+25,Grupos,A,2026-06-18,13:00,Czechia,South Africa,—,—
+26,Grupos,B,2026-06-18,16:00,Switzerland,Bosnia and Herzegovina,—,—
+27,Grupos,B,2026-06-18,19:00,Canada,Qatar,—,—
+28,Grupos,A,2026-06-18,22:00,México,South Korea,—,—
+29,Grupos,D,2026-06-19,16:00,United States,Australia,—,—
+30,Grupos,C,2026-06-19,19:00,Scotland,Morocco,—,—
+31,Grupos,C,2026-06-19,21:30,Brazil,Haiti,—,—
+32,Grupos,D,2026-06-19,23:00,Turkey,Paraguay,—,—
+33,Grupos,F,2026-06-20,14:00,Netherlands,Sweden,—,—
+34,Grupos,E,2026-06-20,17:00,Germany,Ivory Coast,—,—
+35,Grupos,E,2026-06-20,21:00,Ecuador,Curacao,—,—
+36,Grupos,F,2026-06-21,01:00,Tunisia,Japan,—,—
+37,Grupos,H,2026-06-21,13:00,Spain,Saudi Arabia,—,—
+38,Grupos,G,2026-06-21,16:00,Belgium,Iran,—,—
+39,Grupos,H,2026-06-21,19:00,Uruguay,Cape Verde,—,—
+40,Grupos,G,2026-06-21,22:00,New Zealand,Egypt,—,—
+41,Grupos,I,2026-06-22,18:00,France,Iraq,—,—
+42,Grupos,I,2026-06-22,21:00,Norway,Senegal,—,—
+43,Grupos,J,2026-06-22,13:00,Argentina,Austria,—,—
+44,Grupos,J,2026-06-22,22:00,Jordan,Algeria,—,—
+45,Grupos,K,2026-06-23,14:00,Portugal,Uzbekistan,—,—
+46,Grupos,L,2026-06-23,17:00,England,Ghana,—,—
+47,Grupos,L,2026-06-23,20:00,Panama,Croatia,—,—
+48,Grupos,K,2026-06-23,23:00,Colombia,DR Congo,—,—
+49,Grupos,B,2026-06-24,16:00,Switzerland,Canada,—,—
+50,Grupos,B,2026-06-24,16:00,Bosnia and Herzegovina,Qatar,—,—
+51,Grupos,C,2026-06-24,19:00,Scotland,Brazil,—,—
+52,Grupos,C,2026-06-24,19:00,Morocco,Haiti,—,—
+53,Grupos,A,2026-06-24,22:00,Czechia,México,—,—
+54,Grupos,A,2026-06-24,22:00,South Africa,South Korea,—,—
+55,Grupos,E,2026-06-25,17:00,Ecuador,Germany,—,—
+56,Grupos,E,2026-06-25,17:00,Curacao,Ivory Coast,—,—
+57,Grupos,F,2026-06-25,20:00,Tunisia,Netherlands,—,—
+58,Grupos,F,2026-06-25,20:00,Japan,Sweden,—,—
+59,Grupos,D,2026-06-25,23:00,Turkey,United States,—,—
+60,Grupos,D,2026-06-25,23:00,Paraguay,Australia,—,—
+61,Grupos,I,2026-06-26,13:00,Norway,France,—,—
+62,Grupos,I,2026-06-26,13:00,Senegal,Iraq,—,—
+63,Grupos,H,2026-06-26,18:00,Uruguay,Spain,—,—
+64,Grupos,H,2026-06-26,18:00,Cape Verde,Saudi Arabia,—,—
+65,Grupos,G,2026-06-26,21:00,New Zealand,Belgium,—,—
+66,Grupos,G,2026-06-26,21:00,Egypt,Iran,—,—
+67,Grupos,L,2026-06-27,18:00,Panama,England,—,—
+68,Grupos,L,2026-06-27,18:00,Croatia,Ghana,—,—
+69,Grupos,K,2026-06-27,20:30,Colombia,Portugal,—,—
+70,Grupos,K,2026-06-27,20:30,DR Congo,Uzbekistan,—,—
+71,Grupos,J,2026-06-27,23:00,Jordan,Argentina,—,—
+72,Grupos,J,2026-06-27,23:00,Algeria,Austria,—,—
